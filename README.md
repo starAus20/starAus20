@@ -7,10 +7,8 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * [Intereses](#intereses)
 
 ## Información personal 
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Austin Estrella 
+* Ocupación: Ingeniero de computacion
 
 ## Proyectos 
 * [Lista de tus proyectos]
