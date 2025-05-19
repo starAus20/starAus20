@@ -5,9 +5,9 @@ Bienvenido a mi sitio personal. Aquí comparto un poco sobre quién soy, los pro
 ---
 
 ## Contenido
-* [Información personal](#informacion-personal)
+* [Información personal](#información-personal)
 * [Proyectos](#proyectos)
-* [Tecnologías](#tecnologias)
+* [Tecnologías](#tecnologías)
 * [Intereses](#intereses)
 
 ---
